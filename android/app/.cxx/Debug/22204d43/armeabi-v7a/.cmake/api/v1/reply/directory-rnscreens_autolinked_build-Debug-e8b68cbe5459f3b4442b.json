@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rnscreens_autolinked_build",
+		"source" : "/Users/gaurav/Downloads/interview prep/projects/kavach-main/node_modules/react-native-screens/android/src/main/jni"
+	}
+}
